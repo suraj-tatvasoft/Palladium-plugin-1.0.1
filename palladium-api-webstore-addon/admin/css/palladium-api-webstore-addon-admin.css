@@ -1,0 +1,16 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+#pld-webstore-api-settings-form input[type="text"]{
+    min-width: 400px;
+}
+
+#pld-webstore-api-settings-form th{
+    min-width: 300px;
+}
+
+.toplevel_page_pld-webstore-api-settings .notice.is-dismissible{
+    margin-left: 0;
+}
